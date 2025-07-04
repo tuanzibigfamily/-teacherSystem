@@ -8,3 +8,8 @@ java简单的实现页面，添加多种报错机制
 请把user.txt和workloads.txt文件地址设置为自己的地址
 还有图片的地址也是
 
+ Java simple implementation page, add a variety of error reporting mechanisms This is a small internship project, if you want to add more features, you can consider upgrading to Maven project to achieve ordinary modules can not do the event. 
+ By KEY-FANS-CLUB Our Dreams Welcome to ask questions or create forks to add more features you want 
+
+ Note: 
+ Please set the user.txt and workloads.txt file addresses to your own address and the image address is also 
